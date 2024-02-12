@@ -10,7 +10,7 @@
   {
     "name": "/Preferences/ArmP",
     "type": "double",
-    "value": 0.8,
+    "value": 2.0,
     "properties": {
       "persistent": true
     }
@@ -26,7 +26,7 @@
   {
     "name": "/Preferences/FFG",
     "type": "double",
-    "value": 0.115,
+    "value": 0.025,
     "properties": {
       "persistent": true
     }
@@ -58,7 +58,7 @@
   {
     "name": "/Preferences/ArmD",
     "type": "double",
-    "value": 0.05,
+    "value": 0.0,
     "properties": {
       "persistent": true
     }
